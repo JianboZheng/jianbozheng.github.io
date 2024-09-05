@@ -1,2 +1,2 @@
 # jianbozheng.github.io
-My personal website
+个人Wiki
